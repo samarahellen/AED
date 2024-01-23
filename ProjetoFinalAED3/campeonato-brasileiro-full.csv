@@ -1,0 +1,551 @@
+id;rodada;data;mandante;visitante;vencedor
+1;1;29/03/2003;Guarani;Vasco;Guarani
+2;1;29/03/2003;Athletico-PR;Gremio;Athletico-PR
+3;1;30/03/2003;Flamengo;Coritiba;Empate
+4;1;30/03/2003;Goias;Paysandu;Empate
+5;1;30/03/2003;Internacional;Ponte Preta;Empate
+6;1;30/03/2003;Criciuma;Fluminense;Criciuma
+7;1;30/03/2003;Juventude;Sao Paulo;Empate
+8;1;30/03/2003;Fortaleza;Bahia;Empate
+9;1;30/03/2003;Cruzeiro;Sao Caetano;Empate
+10;1;30/03/2003;Vitoria;Figueirense;Empate
+11;1;30/03/2003;Santos;Parana;Empate
+12;1;30/03/2003;Corinthians;Atletico-MG;Atletico-MG
+13;2;05/04/2003;Fluminense;Fortaleza;Empate
+14;2;05/04/2003;Atletico-MG;Santos;Empate
+15;2;05/04/2003;Coritiba;Internacional;Internacional
+16;2;05/04/2003;Gremio;Guarani;Gremio
+17;2;06/04/2003;Bahia;Flamengo;Flamengo
+18;2;06/04/2003;Figueirense;Corinthians;Empate
+19;2;06/04/2003;Paysandu;Vitoria;Vitoria
+20;2;06/04/2003;Ponte Preta;Juventude;Ponte Preta
+21;2;06/04/2003;Parana;Athletico-PR;Parana
+22;2;06/04/2003;Sao Caetano;Criciuma;Sao Caetano
+23;2;06/04/2003;Sao Paulo;Cruzeiro;Cruzeiro
+24;2;06/04/2003;Vasco;Goias;Vasco
+25;2;06/04/2003;Coritiba;Fluminense;Flamengo
+26;3;12/04/2003;Santos;Figueirense;Santos
+27;3;12/04/2003;Athletico-PR;Atletico-MG;Atletico-MG
+28;3;12/04/2003;Corinthians;Paysandu;Corinthians
+29;3;13/04/2003;Vitoria;Vasco;Vitoria
+30;3;13/04/2003;Criciuma;Sao Paulo;Empate
+31;3;13/04/2003;Fortaleza;Sao Caetano;Empate
+32;3;13/04/2003;Juventude;Coritiba;Juventude
+33;3;13/04/2003;Guarani;Parana;Guarani
+34;3;13/04/2003;Goias;Gremio;Empate
+35;3;13/04/2003;Cruzeiro;Ponte Preta;Cruzeiro
+36;4;10/04/2003;Fluminense;Internacional;Fluminense
+37;4;10/04/2003;Sao Paulo;Fortaleza;Sao Paulo
+38;4;10/04/2003;Parana;Goias;Parana
+39;4;12/04/2003;Flamengo;Cruzeiro;Flamengo
+40;4;12/04/2003;Bahia;Juventude;Bahia
+41;4;12/04/2003;Gremio;Vitoria;Gremio
+42;4;12/04/2003;Atletico-MG;Guarani;Atletico-MG
+43;4;12/04/2003;Figueirense;Athletico-PR;Empate
+44;4;12/04/2003;Ponte Preta;Criciuma;Empate
+45;4;12/04/2003;Sao Caetano;Flamengo;Empate
+46;4;12/04/2003;Vasco;Corinthians;Empate
+47;4;12/04/2003;Coritiba;Cruzeiro;Cruzeiro
+48;5;19/04/2003;Bahia;Atletico-MG;Atletico-MG
+49;5;19/04/2003;Sao Caetano;Gremio;Empate
+50;5;19/04/2003;Flamengo;Santos;Santos
+51;5;20/04/2003;Sao Paulo;Vasco;Sao Paulo
+52;5;20/04/2003;Internacional;Corinthians;Internacional
+53;5;20/04/2003;Criciuma;Guarani;Criciuma
+54;5;20/04/2003;Juventude;Vitoria;Empate
+55;5;20/04/2003;Fortaleza;Athletico-PR;Fortaleza
+56;5;20/04/2003;Ponte Preta;Paysandu;Empate
+57;5;20/04/2003;Cruzeiro;Goias;Cruzeiro
+58;5;20/04/2003;Fluminense;Parana;Empate
+59;5;21/04/2003;Coritiba;Figueirense;Coritiba
+60;6;26/04/2003;Atletico-MG;Coritiba;Coritiba
+61;6;26/04/2003;Parana;Bahia;Parana
+62;6;26/04/2003;Vitoria;Internacional;Internacional
+63;6;26/04/2003;Guarani;Cruzeiro;Empate
+64;6;27/04/2003;Corinthians;Flamengo;Empate
+65;6;27/04/2003;Goias;Juventude;Goias
+66;6;27/04/2003;Figueirense;Ponte Preta;Empate
+67;6;27/04/2003;Santos;Fortaleza;Santos
+68;6;27/04/2003;Gremio;Fluminense;Fluminense
+69;6;27/04/2003;Athletico-PR;Criciuma;Athletico-PR
+70;6;27/04/2003;Paysandu;Sao Paulo;Paysandu
+71;6;27/04/2003;Vasco;Sao Caetano;Vasco
+72;7;03/05/2003;Flamengo;Vitoria;Flamengo
+73;7;03/05/2003;Bahia;Gremio;Bahia
+74;7;03/05/2003;Cruzeiro;Athletico-PR;Cruzeiro
+75;7;04/05/2003;Fortaleza;Corinthians;Corinthians
+76;7;04/05/2003;Sao Paulo;Figueirense;Sao Paulo
+77;7;04/05/2003;Sao Caetano;Paysandu;Sao Caetano
+78;7;04/05/2003;Internacional;Goias;Internacional
+79;7;04/05/2003;Ponte Preta;Atletico-MG;Ponte Preta
+80;7;04/05/2003;Juventude;Guarani;Empate
+81;7;04/05/2003;Coritiba;Parana;Coritiba
+82;7;04/05/2003;Criciuma;Santos;Santos
+83;7;04/05/2003;Fluminense;Vasco;Empate
+84;8;10/05/2003;Goias;Flamengo;Empate
+85;8;10/05/2003;Santos;Cruzeiro;Cruzeiro
+86;8;10/05/2003;Parana;Ponte Preta;Parana
+87;8;10/05/2003;Corinthians;Criciuma;Corinthians
+88;8;11/05/2003;Vasco;Bahia;Empate
+89;8;11/05/2003;Paysandu;Fluminense;Empate
+90;8;11/05/2003;Atletico-MG;Sao Paulo;Empate
+91;8;11/05/2003;Vitoria;Fortaleza;Vitoria
+92;8;11/05/2003;Guarani;Internacional;Guarani
+93;8;11/05/2003;Athletico-PR;Juventude;Athletico-PR
+94;8;11/05/2003;Figueirense;Sao Caetano;Figueirense
+95;8;11/05/2003;Gremio;Coritiba;Gremio
+96;9;17/05/2003;Fluminense;Figueirense;Fluminense
+97;9;17/05/2003;Sao Caetano;Atletico-MG;Sao Caetano
+98;9;17/05/2003;Juventude;Santos;Empate
+99;9;18/05/2003;Bahia;Paysandu;Bahia
+100;9;18/05/2003;Sao Paulo;Parana;Sao Paulo
+101;9;18/05/2003;Coritiba;Vasco;Empate
+102;9;18/05/2003;Cruzeiro;Corinthians;Empate
+103;9;18/05/2003;Fortaleza;Goias;Fortaleza
+104;9;18/05/2003;Ponte Preta;Gremio;Ponte Preta
+105;9;18/05/2003;Criciuma;Vitoria;Empate
+106;9;18/05/2003;Flamengo;Guarani;Empate
+107;9;18/05/2003;Sao Paulo;Parana;Sao Paulo
+108;10;24/05/2003;Atletico-MG;Fluminense;Atletico-MG
+109;10;24/05/2003;Parana;Sao Caetano;Empate
+110;10;24/05/2003;Corinthians;Juventude;Corinthians
+111;10;24/05/2003;Vasco;Ponte Preta;Vasco
+112;10;25/05/2003;Athletico-PR;Flamengo;Athletico-PR
+113;10;25/05/2003;Paysandu;Coritiba;Coritiba
+114;10;25/05/2003;Goias;Criciuma;Criciuma
+115;10;25/05/2003;Gremio;Sao Paulo;Sao Paulo
+116;10;25/05/2003;Guarani;Fortaleza;Guarani
+117;10;25/05/2003;Figueirense;Bahia;Figueirense
+118;10;25/05/2003;Vitoria;Cruzeiro;Vitoria
+119;10;25/05/2003;Santos;Internacional;Santos
+120;11;31/05/2003;Fluminense;Athletico-PR;Fluminense
+121;11;31/05/2003;Cruzeiro;Criciuma;Cruzeiro
+122;11;31/05/2003;Coritiba;Guarani;Coritiba
+123;11;31/05/2003;Ponte Preta;Sao Caetano;Empate
+124;11;31/05/2003;Internacional;Paysandu;Internacional
+125;11;01/06/2003;Parana;Flamengo;Parana
+126;11;01/06/2003;Bahia;Goias;Bahia
+127;11;01/06/2003;Fortaleza;Juventude;Fortaleza
+128;11;01/06/2003;Figueirense;Gremio;Figueirense
+129;11;01/06/2003;Santos;Sao Paulo;Sao Paulo
+130;11;01/06/2003;Corinthians;Vitoria;Corinthians
+131;11;01/06/2003;Vasco;Atletico-MG;Empate
+132;12;07/06/2003;Vitoria;Fluminense;Vitoria
+133;12;07/06/2003;Guarani;Santos;Santos
+134;12;07/06/2003;Gremio;Fortaleza;Gremio
+135;12;07/06/2003;Atletico-MG;Figueirense;Empate
+136;12;08/06/2003;Paysandu;Parana;Paysandu
+137;12;08/06/2003;Juventude;Vasco;Empate
+138;12;08/06/2003;Athletico-PR;Ponte Preta;Athletico-PR
+139;12;08/06/2003;Goias;Coritiba;Coritiba
+140;12;08/06/2003;Sao Caetano;Corinthians;Sao Caetano
+141;12;08/06/2003;Criciuma;Internacional;Criciuma
+142;12;08/06/2003;Sao Paulo;Bahia;Empate
+143;13;14/06/2003;Fluminense;Goias;Goias
+144;13;14/06/2003;Ponte Preta;Guarani;Guarani
+145;13;14/06/2003;Coritiba;Athletico-PR;Coritiba
+146;13;15/06/2003;Corinthians;Sao Paulo;Sao Paulo
+147;13;15/06/2003;Fortaleza;Paysandu;Paysandu
+148;13;15/06/2003;Parana;Juventude;Juventude
+149;13;15/06/2003;Gremio;Internacional;Empate
+150;13;15/06/2003;Criciuma;Figueirense;Criciuma
+151;13;15/06/2003;Bahia;Vitoria;Bahia
+152;13;15/06/2003;Vasco;Flamengo;Flamengo
+153;13;15/06/2003;Cruzeiro;Atletico-MG;Empate
+154;14;19/06/2003;Bahia;Coritiba;Empate
+155;14;21/06/2003;Vasco;Criciuma;Vasco
+156;14;21/06/2003;Atletico-MG;Gremio;Atletico-MG
+157;14;21/06/2003;Internacional;Parana;Internacional
+158;14;21/06/2003;Sao Paulo;Goias;Sao Paulo
+159;14;22/06/2003;Paysandu;Flamengo;Empate
+160;14;22/06/2003;Ponte Preta;Corinthians;Empate
+161;14;22/06/2003;Sao Caetano;Vitoria;Sao Caetano
+162;14;22/06/2003;Figueirense;Fortaleza;Empate
+163;14;22/06/2003;Juventude;Cruzeiro;Cruzeiro
+164;14;22/06/2003;Fluminense;Guarani;Fluminense
+165;15;28/06/2003;Fortaleza;Vasco;Vasco
+166;15;28/06/2003;Coritiba;Sao Caetano;Coritiba
+167;15;28/06/2003;Gremio;Juventude;Juventude
+168;15;28/06/2003;Santos;Bahia;Santos
+169;15;28/06/2003;Flamengo;Figueirense;Figueirense
+170;15;29/06/2003;Corinthians;Fluminense;Corinthians
+171;15;29/06/2003;Guarani;Sao Paulo;Sao Paulo
+172;15;29/06/2003;Criciuma;Paysandu;Criciuma
+173;15;29/06/2003;Vitoria;Athletico-PR;Vitoria
+174;15;29/06/2003;Cruzeiro;Internacional;Cruzeiro
+175;15;29/06/2003;Parana;Atletico-MG;Empate
+176;16;05/07/2003;Vasco;Parana;Parana
+177;16;05/07/2003;Sao Paulo;Sao Caetano;Empate
+178;16;05/07/2003;Figueirense;Cruzeiro;Figueirense
+179;16;05/07/2003;Atletico-MG;Paysandu;Atletico-MG
+180;16;06/07/2003;Gremio;Flamengo;Grêmio
+181;16;06/07/2003;Guarani;Goias;Guarani
+182;16;06/07/2003;Athletico-PR;Corinthians;Athletico-PR
+183;16;06/07/2003;Juventude;Internacional;Empate
+184;16;06/07/2003;Fortaleza;Criciuma;Criciuma
+185;16;06/07/2003;Vitoria;Ponte Preta;Ponte Preta
+186;16;06/07/2003;Santos;Coritiba;Santos
+187;16;06/07/2003;Fluminense;Bahia;Fluminense
+188;17;09/07/2003;Sao Caetano;Athletico-PR;Empate
+189;17;09/07/2003;Corinthians;Santos;Empate
+190;17;09/07/2003;Cruzeiro;Fortaleza;Cruzeiro
+191;17;09/07/2003;Bahia;Guarani;Empate
+192;17;09/07/2003;Paysandu;Figueirense;Paysandu
+193;17;09/07/2003;Goias;Vitoria;Empate
+194;17;09/07/2003;Flamengo;Juventude;Flamengo
+195;17;09/07/2003;Internacional;Vasco;Internacional
+196;17;09/07/2003;Coritiba;Sao Paulo;Sao Paulo
+197;17;10/07/2003;Ponte Preta;Fluminense;Ponte Preta
+198;17;10/07/2003;Criciuma;Atletico-MG;Criciuma
+199;17;10/07/2003;Paraná;Gremio;Paraná
+200;18;12/07/2003;Athletico-PR;Goias;Empate
+201;18;12/07/2003;Fortaleza;Internacional;Fortaleza
+202;18;12/07/2003;Vasco;Paysandu;Paysandu
+203;18;13/07/2003;Atletico-MG;Flamengo;Atletico-MG
+204;18;13/07/2003;Ponte Preta;Bahia;Empate
+205;18;13/07/2003;Corinthians;Coritiba;Coritiba
+206;18;13/07/2003;Criciuma;Juventude;Criciuma
+207;18;13/07/2003;Figueirense;Parana;Figueirense
+208;18;13/07/2003;Sao Caetano;Guarani;Guarani
+209;18;13/07/2003;Fluminense;Sao Paulo;Sao Paulo
+210;18;13/07/2003;Gremio;Cruzeiro;Cruzeiro
+211;18;13/07/2003;Vitoria;Santos;Vitoria
+212;19;16/07/2003;Flamengo;Fortaleza;Fortaleza
+213;19;16/07/2003;Juventude;Figueirense;Figueirense
+214;19;16/07/2003;Bahia;Sao Caetano;Empate
+215;19;16/07/2003;Coritiba;Fluminense;Coritiba
+216;19;16/07/2003;Guarani;Vitoria;Empate
+217;19;16/07/2003;Internacional;Atletico-MG;Empate
+218;19;16/07/2003;Santos;Ponte Preta;Santos
+219;19;16/07/2003;Cruzeiro;Vasco;Cruzeiro
+220;19;16/07/2003;Goias;Corinthians;Empate
+221;19;16/07/2003;Paysandu;Gremio;Empate
+222;19;16/07/2003;Sao Paulo;Athletico-PR;Sao Paulo
+223;20;19/07/2003;Fluminense;Santos;Santos
+224;20;19/07/2003;Corinthians;Guarani;Empate
+225;20;19/07/2003;Fortaleza;Atletico-MG;Fortaleza
+226;20;19/07/2003;Internacional;Figueirense;Internacional
+227;20;20/07/2003;Juventude;Paysandu;Juventude
+228;20;20/07/2003;Athletico-PR;Bahia;Athletico-PR
+229;20;20/07/2003;Ponte Preta;Coritiba;Empate
+230;20;20/07/2003;Criciuma;Flamengo;Criciuma
+231;20;20/07/2003;Goias;Sao Caetano;Goias
+232;20;20/07/2003;Vitoria;Sao Paulo;Sao Paulo
+233;20;20/07/2003;Cruzeiro;Parana;Cruzeiro
+234;20;20/07/2003;Vasco;Gremio;Vasco
+235;21;23/07/2003;Parana;Fortaleza;Parana
+236;21;23/07/2003;Atletico-MG;Juventude;Atletico-MG
+237;21;23/07/2003;Paysandu;Cruzeiro;Paysandu
+238;21;23/07/2003;Guarani;Athletico-PR;Guarani
+239;21;23/07/2003;Figueirense;Vasco;Empate
+240;21;23/07/2003;Santos;Goias;Empate
+241;21;23/07/2003;Bahia;Corinthians;Empate
+242;21;24/07/2003;Coritiba;Vitoria;Empate
+243;21;24/07/2003;Gremio;Criciuma;Criciuma
+244;21;24/07/2003;Flamengo;Internacional;Flamengo
+245;21;24/07/2003;Sao Caetano;Fluminense;Sao Caetano
+246;21;24/07/2003;Sao Paulo;Ponte Preta;Ponte Preta
+247;22;26/07/2003;Santos;Vasco;Santos
+248;22;26/07/2003;Goias;Atletico-MG;Empate
+249;22;26/07/2003;Goias;Atletico-MG;Não Informado
+250;22;26/07/2003;Athletico-PR;Paysandu;Não Informado
+251;22;26/07/2003;Fortaleza;Ponte Preta;Ponte Preta
+252;22;27/07/2003;Juventude;Fluminense;Juventude
+253;22;27/07/2003;Flamengo;Sao Paulo;Não Informado
+254;22;27/07/2003;Criciuma;Coritiba;Coritiba
+255;22;27/07/2003;Guarani;Figueirense;Guarani
+256;22;27/07/2003;Vitoria;Parana;Parana
+257;22;27/07/2003;Corinthians;Gremio;Corinthians
+258;22;27/07/2003;Cruzeiro;Bahia;Cruzeiro
+259;22;27/07/2003;Internacional;Sao Caetano;Não Informado
+260;23;30/07/2003;Athletico-PR;Santos;Santos
+261;23;30/07/2003;Goias;Ponte Preta;Não Informado
+262;23;31/07/2003;Parana;Criciuma;Parana
+263;23;02/08/2003;Fluminense;Cruzeiro;Não Informado
+264;23;02/08/2003;Gremio;Santos;Gremio
+265;23;02/08/2003;Sao Paulo;Internacional;Internacional
+266;23;02/08/2003;Sao Caetano;Juventude;Não Informado
+267;23;03/08/2003;Figueirense;Goias;Goias
+268;23;03/08/2003;Parana;Corinthians;Não Informado
+269;23;03/08/2003;Paysandu;Guarani;Paysandu
+270;23;03/08/2003;Coritiba;Fortaleza;Não Informado
+271;23;03/08/2003;Bahia;Criciuma;Não Informado
+272;23;03/08/2003;Ponte Preta;Flamengo;Não Informado
+273;23;03/08/2003;Vasco;Athletico-PR;Vasco
+274;23;03/08/2003;Atletico-MG;Vitoria;Atletico-MG
+275;24;06/08/2003;Vitoria;Paysandu;Não Informado
+276;24;06/08/2003;Athletico-PR;Parana;Athletico-PR
+277;24;06/08/2003;Criciuma;Sao Caetano;Sao Caetano
+278;24;06/08/2003;Fortaleza;Fluminense;Fortaleza
+279;24;06/08/2003;Juventude;Ponte Preta;Não Informado
+280;24;06/08/2003;Santos;Atletico-MG;Não Informado
+281;24;06/08/2003;Goias;Vasco;Goias
+282;24;06/08/2003;Cruzeiro;Sao Paulo;Não Informado
+283;24;07/08/2003;Flamengo;Bahia;Flamengo
+284;24;07/08/2003;Corinthians;Figueirense;Figueirense
+285;24;07/08/2003;Guarani;Gremio;Guarani
+286;24;07/08/2003;Internacional;Coritiba;Internacional
+287;24;07/08/2003;Fluminense;Sao Caetano;Fluminense
+288;24;07/08/2003;Sao Paulo;Ponte Preta;Sao Paulo
+289;25;09/08/2003;Santos;Vasco;Santos
+290;25;09/08/2003;Goias;Atletico-MG;Empate
+291;25;09/08/2003;Goias;Atletico-MG;Não Informado
+292;25;09/08/2003;Athletico-PR;Paysandu;Não Informado
+293;25;10/08/2003;Fortaleza;Ponte Preta;Ponte Preta
+294;25;10/08/2003;Juventude;Fluminense;Juventude
+295;25;10/08/2003;Flamengo;Sao Paulo;Não Informado
+296;25;10/08/2003;Criciuma;Coritiba;Coritiba
+297;25;10/08/2003;Guarani;Figueirense;Guarani
+298;25;10/08/2003;Vitoria;Parana;Parana
+299;25;10/08/2003;Corinthians;Gremio;Corinthians
+300;26;16/08/2003;Bahia;Internacional;Internacional
+301;26;16/08/2003;Figueirense;Santos;Figueirense
+302;26;16/08/2003;Coritiba;Juventude;Coritiba
+303;26;16/08/2003;Atletico-MG;Athletico-PR;Athletico-PR
+304;26;16/08/2003;Sao Paulo;Criciuma;Não Informado
+305;26;17/08/2003;Paysandu;Corinthians;Não Informado
+306;26;17/08/2003;Sao Caetano;Fortaleza;Sao Caetano
+307;26;17/08/2003;Ponte Preta;Cruzeiro;Cruzeiro
+308;26;17/08/2003;Parana;Guarani;Não Informado
+309;26;17/08/2003;Gremio;Goias;Goias
+310;26;17/08/2003;Fluminense;Flamengo;Flamengo
+311;27;20/08/2003;Flamengo;Sao Caetano;Flamengo
+312;27;20/08/2003;Goias;Parana;Goias
+313;27;20/08/2003;Juventude;Bahia;Juventude
+314;27;20/08/2003;Cruzeiro;Coritiba;Não Informado
+315;27;20/08/2003;Athletico-PR;Figueirense;Figueirense
+316;27;20/08/2003;Vitoria;Gremio;Vitoria
+317;27;20/08/2003;Santos;Paysandu;Santos
+318;27;20/08/2003;Fortaleza;Sao Paulo;Sao Paulo
+319;27;20/08/2003;Corinthians;Vasco;Não Informado
+320;27;21/08/2003;Internacional;Fluminense;Fluminense
+321;27;21/08/2003;Guarani;Atletico-MG;Não Informado
+322;27;21/08/2003;Criciuma;Ponte Preta;Criciuma
+323;28;23/08/2003;Santos;Flamengo;Santos
+324;28;23/08/2003;Athletico-PR;Fortaleza;Athletico-PR
+325;28;23/08/2003;Goias;Cruzeiro;Goias
+326;28;23/08/2003;Gremio;Sao Caetano;Não Informado
+327;28;24/08/2003;Vasco;Sao Paulo;Vasco
+328;28;24/08/2003;Paysandu;Ponte Preta;Paysandu
+329;28;24/08/2003;Parana;Fluminense;Parana
+330;28;24/08/2003;Vitoria;Juventude;Vitoria
+331;28;24/08/2003;Guarani;Criciuma;Guarani
+332;28;24/08/2003;Figueirense;Coritiba;Coritiba
+333;28;24/08/2003;Corinthians;Internacional;Corinthians
+334;28;24/08/2003;Atletico-MG;Bahia;Atletico-MG
+335;29;30/08/2003;Fluminense;Gremio;Fluminense
+336;29;30/08/2003;Fortaleza;Santos;Não Informado
+337;29;30/08/2003;Internacional;Vitoria;Vitoria
+338;29;30/08/2003;Cruzeiro;Guarani;Cruzeiro
+339;29;30/08/2003;Sao Paulo;Paysandu;Sao Paulo
+340;29;31/08/2003;Sao Caetano;Vasco;Sao Caetano
+341;29;31/08/2003;Juventude;Goias;Goias
+342;29;31/08/2003;Flamengo;Corinthians;Flamengo
+343;29;31/08/2003;Bahia;Parana;Bahia
+344;29;31/08/2003;Ponte Preta;Figueirense;Não Informado
+345;29;31/08/2003;Criciuma;Athletico-PR;Criciuma
+346;29;31/08/2003;Coritiba;Atletico-MG;Não Informado
+347;30;13/09/2003;Santos;Criciuma;Santos
+348;30;13/09/2003;Athletico-PR;Cruzeiro;Cruzeiro
+349;30;13/09/2003;Gremio;Bahia;Não Informado
+350;30;13/09/2003;Corinthians;Fortaleza;Corinthians
+351;30;14/09/2003;Vitoria;Flamengo;Vitoria
+352;30;14/09/2003;Figueirense;Sao Paulo;Não Informado
+353;30;14/09/2003;Goias;Internacional;Goias
+354;30;14/09/2003;Paysandu;Sao Caetano;Paysandu
+355;30;14/09/2003;Guarani;Juventude;Guarani
+356;30;14/09/2003;Parana;Coritiba;Coritiba
+357;30;14/09/2003;Vasco;Fluminense;Vasco
+358;30;14/09/2003;Atletico-MG;Ponte Preta;Atletico-MG
+359;31;20/09/2003;Cruzeiro;Santos;Cruzeiro
+360;31;20/09/2003;Coritiba;Gremio;Coritiba
+361;31;20/09/2003;Ponte Preta;Parana;Ponte Preta
+362;31;20/09/2003;Fluminense;Paysandu;Não Informado
+363;31;20/09/2003;Internacional;Guarani;Internacional
+364;31;21/09/2003;Bahia;Vasco;Bahia
+365;31;21/09/2003;Criciuma;Corinthians;Criciuma
+366;31;21/09/2003;Fortaleza;Vitoria;Fortaleza
+367;31;21/09/2003;Juventude;Athletico-PR;Juventude
+368;31;21/09/2003;Sao Caetano;Figueirense;Não Informado
+369;31;21/09/2003;Sao Paulo;Atletico-MG;Não Informado
+370;31;21/09/2003;Flamengo;Goias;Não Informado
+371;32;24/09/2003;Athletico-PR;Internacional;Athletico-PR
+372;32;24/09/2003;Gremio;Ponte Preta;Não Informado
+373;32;24/09/2003;Goias;Fortaleza;Fortaleza
+374;32;24/09/2003;Paysandu;Bahia;Paysandu
+375;32;24/09/2003;Vitoria;Criciuma;Não Informado
+376;32;24/09/2003;Guarani;Flamengo;Guarani
+377;32;24/09/2003;Parana;Sao Paulo;Parana
+378;32;24/09/2003;Santos;Juventude;Não Informado
+379;32;24/09/2003;Corinthians;Cruzeiro;Cruzeiro
+380;32;25/09/2003;Figueirense;Fluminense;Não Informado
+381;32;25/09/2003;Vasco;Coritiba;Vasco
+382;32;25/09/2003;Atletico-MG;Sao Caetano;Atletico-MG
+383;33;27/09/2003;Internacional;Santos;Internacional
+384;33;27/09/2003;Sao Paulo;Gremio;Sao Paulo
+385;33;27/09/2003;Flamengo;Athletico-PR;Flamengo
+386;33;28/09/2003;Cruzeiro;Vitoria;Cruzeiro
+387;33;28/09/2003;Bahia;Figueirense;Não Informado
+388;33;28/09/2003;Criciuma;Goias;Criciuma
+389;33;28/09/2003;Fortaleza;Guarani;Fortaleza
+390;33;28/09/2003;Juventude;Paysandu;Não Informado
+391;33;28/09/2003;Ponte Preta;Vasco;Ponte Preta
+392;33;28/09/2003;Coritiba;Parana;Coritiba
+393;33;28/09/2003;Sao Caetano;Atletico-MG;Sao Caetano
+394;34;04/10/2003;Atletico-PR;Bahia;Atletico-PR
+395;34;04/10/2003;Fluminense;Ponte Preta;Fluminense
+396;34;04/10/2003;Goias;Cruzeiro;Goias
+397;34;04/10/2003;Internacional;Coritiba;Internacional
+398;34;05/10/2003;Gremio;Corinthians;Gremio
+399;34;05/10/2003;Sao Caetano;Figueirense;Sao Caetano
+400;34;05/10/2003;Paysandu;Santos;Paysandu
+401;34;05/10/2003;Vasco;Flamengo;Flamengo
+402;34;05/10/2003;Vitoria;Juventude;Vitoria
+403;34;05/10/2003;Fortaleza;Parana;Parana
+404;34;05/10/2003;Sao Paulo;Criciuma;Sao Paulo
+405;35;11/10/2003;Santos;Fluminense;Santos
+406;35;11/10/2003;Cruzeiro;Fortaleza;Cruzeiro
+407;35;11/10/2003;Flamengo;Paysandu;Flamengo
+408;35;11/10/2003;Athletico-PR;Gremio;Não Informado
+409;35;12/10/2003;Goias;Vasco;Goias
+410;35;12/10/2003;Guarani;Corinthians;Corinthians
+411;35;12/10/2003;Internacional;Sao Caetano;Internacional
+412;35;12/10/2003;Juventude;Atletico-MG;Juventude
+413;35;12/10/2003;Ponte Preta;Coritiba;Ponte Preta
+414;35;12/10/2003;Parana;Sao Paulo;Sao Paulo
+415;35;12/10/2003;Criciuma;Bahia;Criciuma
+416;36;18/10/2003;Atletico-MG;Fluminense;Não Informado
+417;36;18/10/2003;Cruzeiro;Ponte Preta;Não Informado
+418;36;18/10/2003;Sao Paulo;Juventude;Sao Paulo
+419;36;18/10/2003;Gremio;Vitoria;Gremio
+420;36;18/10/2003;Flamengo;Internacional;Internacional
+421;36;19/10/2003;Sao Caetano;Criciuma;Sao Caetano
+422;36;19/10/2003;Parana;Fortaleza;Parana
+423;36;19/10/2003;Bahia;Athletico-PR;Não Informado
+424;36;19/10/2003;Corinthians;Goias;Goias
+425;36;19/10/2003;Paysandu;Guarani;Guarani
+426;36;19/10/2003;Coritiba;Santos;Coritiba
+427;37;25/10/2003;Guarani;Sao Caetano;Não Informado
+428;37;25/10/2003;Fluminense;Flamengo;Fluminense
+429;37;25/10/2003;Santos;Sao Paulo;Santos
+430;37;25/10/2003;Goias;Criciuma;Goias
+431;37;25/10/2003;Gremio;Paysandu;Gremio
+432;37;26/10/2003;Fortaleza;Atletico-MG;Atletico-MG
+433;37;26/10/2003;Cruzeiro;Parana;Parana
+434;37;26/10/2003;Internacional;Corinthians;Corinthians
+435;37;26/10/2003;Ponte Preta;Bahia;Ponte Preta
+436;37;19/10/2003;Parana;Internacional;Parana
+437;37;19/10/2003;Santos;Athletico-PR;Santos
+438;37;19/10/2003;Criciuma;Vasco;Criciuma
+439;37;19/10/2003;Fortaleza;Figueirense;nao informado/empate
+440;37;19/10/2003;Vitoria;Sao Caetano;nao informado/empate
+441;37;19/10/2003;Corinthians;Ponte Preta;Corinthians
+442;37;19/10/2003;Cruzeiro;Juventude;Juventude
+443;38;22/10/2003;Ponte Preta;Goias;Goias
+444;38;22/10/2003;Sao Caetano;Coritiba;Sao Caetano
+445;38;22/10/2003;Athletico-PR;Vitoria;Vitoria
+446;38;22/10/2003;Figueirense;Flamengo;nao informado/empate
+447;38;22/10/2003;Fluminense;Corinthians;Fluminense
+448;38;22/10/2003;Internacional;Cruzeiro;Internacional
+449;38;22/10/2003;Bahia;Santos;Santos
+450;38;23/10/2003;Paysandu;Criciuma;Paysandu
+451;38;23/10/2003;Sao Paulo;Guarani;nao informado/empate
+452;38;23/10/2003;Atletico-MG;Parana;nao informado/empate
+453;38;23/10/2003;Juventude;Gremio;Gremio
+454;38;23/10/2003;Vasco;Fortaleza;nao informado/empate
+455;39;25/10/2003;Coritiba;Santos;Santos
+456;39;25/10/2003;Bahia;Fluminense;nao informado/empate
+457;39;25/10/2003;Ponte Preta;Vitoria;nao informado/empate
+458;39;25/10/2003;Cruzeiro;Figueirense;Cruzeiro
+459;39;26/10/2003;Sao Caetano;Sao Paulo;Sao Paulo
+460;39;26/10/2003;Parana;Vasco;nao informado/empate
+461;39;26/10/2003;Goias;Guarani;Goias
+462;39;26/10/2003;Criciuma;Fortaleza;nao informado/empate
+463;39;26/10/2003;Corinthians;Athletico-PR;Athletico-PR
+464;39;26/10/2003;Paysandu;Atletico-MG;Paysandu
+465;39;26/10/2003;Flamengo;Gremio;Flamengo
+466;39;26/10/2003;Internacional;Juventude;nao informado/empate
+467;40;01/11/2003;Guarani;Bahia;Guarani
+468;40;01/11/2003;Athletico-PR;Sao Caetano;Athletico-PR
+469;40;01/11/2003;Gremio;Parana;Parana
+470;40;01/11/2003;Fluminense;Ponte Preta;nao informado/empate
+471;40;01/11/2003;Atletico-MG;Criciuma;nao informado/empate
+472;40;02/11/2003;Santos;Corinthians;Santos
+473;40;02/11/2003;Juventude;Flamengo;nao informado/empate
+474;40;02/11/2003;Fortaleza;Cruzeiro;Cruzeiro
+475;40;02/11/2003;Figueirense;Paysandu;Figueirense
+476;40;02/11/2003;Vitoria;Goias;Goias
+477;40;02/11/2003;Vasco;Internacional;Internacional
+478;40;02/11/2003;Sao Paulo;Coritiba;Sao Paulo
+479;41;05/11/2003;Parana;Figueirense;nao informado/empate
+480;41;05/11/2003;Internacional;Fortaleza;nao informado/empate
+481;41;05/11/2003;Juventude;Criciuma;Juventude
+482;41;05/11/2003;Paysandu;Vasco;Vasco
+483;41;05/11/2003;Sao Paulo;Fluminense;Sao Paulo
+484;41;05/11/2003;Coritiba;Corinthians;Coritiba
+485;41;05/11/2003;Santos;Vitoria;Santos
+486;41;05/11/2003;Cruzeiro;Gremio;Cruzeiro
+487;41;06/11/2003;Bahia;Ponte Preta;Bahia
+488;41;06/11/2003;Goias;Athletico-PR;Goias
+489;41;06/11/2003;Flamengo;Atletico-MG;Flamengo
+490;41;06/11/2003;Guarani;Sao Caetano;Sao Caetano
+491;42;08/11/2003;Fluminense;Coritiba;Fluminense
+492;42;08/11/2003;Gremio;Paysandu;Gremio
+493;42;08/11/2003;Criciuma;Parana;Parana
+494;42;09/11/2003;Ponte Preta;Santos;Santos
+495;42;09/11/2003;Vasco;Cruzeiro;Cruzeiro
+496;42;09/11/2003;Fortaleza;Flamengo;Fortaleza
+497;42;09/11/2003;Athletico-PR;Sao Paulo;Athletico-PR
+498;42;09/11/2003;Sao Caetano;Bahia;Sao Caetano
+499;42;09/11/2003;Figueirense;Juventude;Figueirense
+500;42;09/11/2003;Vitoria;Guarani;nao informado/empate
+501;42;09/11/2003;Corinthians;Goias;Corinthians
+502;42;09/11/2003;Atletico-MG;Internacional;Internacional
+503;43;22/11/2003;Figueirense;Internacional;Figueirense
+504;43;22/11/2003;Atletico-MG;Fortaleza;Atletico-MG
+505;43;22/11/2003;Coritiba;Ponte Preta;nao informado/empate
+506;43;22/11/2003;Gremio;Vasco;Gremio
+507;43;22/11/2003;Flamengo;Criciuma;Flamengo
+508;43;23/11/2003;Santos;Fluminense;Santos
+509;43;23/11/2003;Parana;Cruzeiro;Cruzeiro
+510;43;23/11/2003;Sao Caetano;Goias;Sao Caetano
+511;43;23/11/2003;Bahia;Athletico-PR;Athletico-PR
+512;43;23/11/2003;Sao Paulo;Vitoria;Sao Paulo
+513;43;23/11/2003;Guarani;Corinthians;Corinthians
+514;43;23/11/2003;Paysandu;Juventude;Paysandu
+515;44;29/11/2003;Vasco;Figueirense;Vasco
+516;44;29/11/2003;Juventude;Atletico-MG;Juventude
+517;44;29/11/2003;Athletico-PR;Guarani;Athletico-PR
+518;44;29/11/2003;Fluminense;Sao Caetano;Fluminense
+519;44;29/11/2003;Internacional;Flamengo;Internacional
+520;44;30/11/2003;Goias;Santos;Goias
+521;44;30/11/2003;Fortaleza;Parana;Fortaleza
+522;44;30/11/2003;Criciuma;Gremio;Gremio
+523;44;30/11/2003;Vitoria;Coritiba;Vitoria
+524;44;30/11/2003;Ponte Preta;Sao Paulo;Sao Paulo
+525;44;30/11/2003;Corinthians;Bahia;Bahia
+526;44;30/11/2003;Cruzeiro;Paysandu;Cruzeiro
+527;45;06/12/2003;Vitoria;Atletico-MG;Atletico-MG
+528;45;06/12/2003;Goias;Figueirense;Figueirense
+529;45;06/12/2003;Athletico-PR;Vasco;nao informado/empate
+530;45;06/12/2003;Corinthians;Parana;nao informado/empate
+531;45;07/12/2003;Cruzeiro;Fluminense;Cruzeiro
+532;45;07/12/2003;Guarani;Paysandu;Guarani
+533;45;07/12/2003;Santos;Gremio;nao informado/empate
+534;45;07/12/2003;Flamengo;Ponte Preta;nao informado/empate
+535;45;07/12/2003;Criciuma;Bahia;Criciuma
+536;45;07/12/2003;Fortaleza;Coritiba;nao informado/empate
+537;45;07/12/2003;Internacional;Sao Paulo;nao informado/empate
+538;45;07/12/2003;Juventude;Sao Caetano;Juventude
+539;46;13/12/2003;Parana;Vitoria;Parana
+540;46;13/12/2003;Coritiba;Criciuma;Coritiba
+541;46;13/12/2003;Atletico-MG;Goias;Atletico-MG
+542;46;13/12/2003;Figueirense;Guarani;Figueirense
+543;46;13/12/2003;Ponte Preta;Cruzeiro;Cruzeiro
+544;46;14/12/2003;Vasco;Fortaleza;nao informado/empate
+545;46;14/12/2003;Sao Caetano;Santos;Santos
+546;46;14/12/2003;Bahia;Flamengo;nao informado/empate
+547;46;14/12/2003;Gremio;Internacional;Gremio
+548;46;14/12/2003;Sao Paulo;Athletico-PR;Sao Paulo
+549;46;14/12/2003;Fluminense;Corinthians;nao informado/empate
+550;46;14/12/2003;Paysandu;Juventude;Juventude
